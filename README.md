@@ -25,5 +25,10 @@ HTML e CSS (para estilização básica)
 
 JavaScript (para manipulação do DOM e lógica do sorteio)
 
+Visual Studio Code 
+
 # Contribuindo
 São bem vindas todas as ideias para melhorar o projeto!
+
+# Link para acessar o Sorteio do amigo secreto:
+https://quiro567.github.io/amigo-secreto/ 
